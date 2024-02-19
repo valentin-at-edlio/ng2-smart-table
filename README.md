@@ -1,4 +1,13 @@
-[![Build Status](https://travis-ci.org/akveo/ng2-smart-table.svg?branch=master)](https://travis-ci.org/akveo/ng2-smart-table)
+# FORK
+
+This is a forked version updated to work with Angular 11.
+
+### Publish new forked version to npm
+
+- use Node.js v16
+- `npm i`
+- `npm run build:lib`
+- `npm publish dist\ng2-smart-table --access public`
 
 # Angular Smart Table Component
 
